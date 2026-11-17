@@ -7,6 +7,10 @@
 
 ---
 
+## Changes in LTDCE 1.1.2
+
+The Guardian root recharges in 12 seconds, Wolverine’s Madness grants damage immunity for 1.5 seconds and the Death Knight’s Mirror of Truth reveals the target area again. [Notes for 1.1.2](releases/1.1.2/CHANGELOG.md)
+
 ## Comparison scope
 
 Legion TD Community Enhanced 1.1.1 retains these gameplay changes. The names and version numbers below describe the historical 1.1.0 build. [Notes for 1.1.1](releases/1.1.1/CHANGELOG.md)
