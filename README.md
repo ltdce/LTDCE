@@ -16,9 +16,9 @@
 
 LTDCE is a community edition of Team OZE’s Legion TD 11.4c-hf9 for Warcraft III. It fixes the Death Knight’s Mirror of Truth and focuses on improving performance. Elo is temporarily disabled while we develop a faster ranking system to replace it.
 
-**Play 1.1.4.** Download the `.w3x` from the release and put it in a map folder recognized by Warcraft III. Go to **Custom Games → Create Game** and select **Legion TD Community Enhanced 1.1.4**. Share the same release with anyone joining your lobby.
+**Play 1.1.5.** Download the `.w3x` from the release and put it in a map folder recognized by Warcraft III. Go to **Custom Games → Create Game** and select **Legion TD Community Enhanced 1.1.5**. Share the same release with anyone joining your lobby.
 
-[Download 1.1.4][download] · [Changelog][release] · [LTDCE overview][changes] · [Suggest an idea][ideas] · [Report a bug][bugs] · [Monthly voting guide][community-en] · [Project history (Portuguese)][history]
+[Download 1.1.5][download] · [Changelog][release] · [LTDCE overview][changes] · [Suggest an idea][ideas] · [Report a bug][bugs] · [Monthly voting guide][community-en] · [Project history (Portuguese)][history]
 
 ## Русский
 
@@ -30,9 +30,9 @@ LTDCE is a community edition of Team OZE’s Legion TD 11.4c-hf9 for Warcraft II
 
 LTDCE — версия Legion TD 11.4c-hf9 от Team OZE для Warcraft III, которую развивает сообщество. В ней исправлено «Зеркало истины» Рыцаря смерти, и ведётся работа над производительностью. Elo временно отключён, пока мы разрабатываем более быструю систему рейтинга.
 
-**Как сыграть в 1.1.4.** Скачайте файл `.w3x` и поместите его в папку карт Warcraft III. В меню пользовательских игр создайте игру и выберите **Legion TD Community Enhanced 1.1.4**. У всех участников лобби должна быть одна и та же версия.
+**Как сыграть в 1.1.5.** Скачайте файл `.w3x` и поместите его в папку карт Warcraft III. В меню пользовательских игр создайте игру и выберите **Legion TD Community Enhanced 1.1.5**. У всех участников лобби должна быть одна и та же версия.
 
-[Скачать 1.1.4][download] · [История изменений][release] · [Обзор LTDCE][changes] · [Предложить идею][ideas] · [Сообщить об ошибке][bugs] · [Порядок ежемесячного голосования][community-ru] · [История проекта (на португальском)][history]
+[Скачать 1.1.5][download] · [История изменений][release] · [Обзор LTDCE][changes] · [Предложить идею][ideas] · [Сообщить об ошибке][bugs] · [Порядок ежемесячного голосования][community-ru] · [История проекта (на португальском)][history]
 
 ## 한국어
 
@@ -44,9 +44,9 @@ LTDCE — версия Legion TD 11.4c-hf9 от Team OZE для Warcraft III, к
 
 LTDCE는 팀 OZE의 Legion TD 11.4c-hf9를 기반으로 한 워크래프트 III 커뮤니티 버전입니다. 죽음의 기사의 진실의 거울 오류를 수정했으며 성능 개선에 집중하고 있습니다. 기존 Elo를 대체할 더 빠른 랭킹 시스템을 개발하는 동안 Elo는 일시적으로 비활성화됩니다.
 
-**1.1.4 플레이 방법.** 릴리스에서 `.w3x` 파일을 내려받아 워크래프트 III가 인식하는 지도 폴더에 넣으세요. **사용자 지정 게임 → 게임 만들기**에서 **Legion TD Community Enhanced 1.1.4**을 선택하세요. 방에 참가하는 사람은 같은 버전을 사용해야 합니다.
+**1.1.5 플레이 방법.** 릴리스에서 `.w3x` 파일을 내려받아 워크래프트 III가 인식하는 지도 폴더에 넣으세요. **사용자 지정 게임 → 게임 만들기**에서 **Legion TD Community Enhanced 1.1.5**을 선택하세요. 방에 참가하는 사람은 같은 버전을 사용해야 합니다.
 
-[1.1.4 다운로드][download] · [릴리스 노트][release] · [LTDCE 소개][changes] · [제안하기][ideas] · [버그 신고][bugs] · [월간 투표 안내][community-ko] · [프로젝트 이야기·포르투갈어][history]
+[1.1.5 다운로드][download] · [릴리스 노트][release] · [LTDCE 소개][changes] · [제안하기][ideas] · [버그 신고][bugs] · [월간 투표 안내][community-ko] · [프로젝트 이야기·포르투갈어][history]
 
 ## Português
 
@@ -58,9 +58,9 @@ LTDCE는 팀 OZE의 Legion TD 11.4c-hf9를 기반으로 한 워크래프트 III 
 
 A LTDCE é uma edição comunitária da Legion TD 11.4c-hf9 do Team OZE para Warcraft III. Ela corrige o Espelho da Verdade do Death Knight e tem foco em melhorar o desempenho. O Elo está temporariamente desativado enquanto desenvolvemos um sistema de ranking mais rápido para substituí-lo.
 
-**Como jogar a 1.1.4.** Baixe o `.w3x` da release e coloque-o em uma pasta de mapas reconhecida pelo Warcraft III. Em **Jogos personalizados → Criar jogo**, selecione **Legion TD Community Enhanced 1.1.4**. Todos no lobby devem usar a mesma versão.
+**Como jogar a 1.1.5.** Baixe o `.w3x` da release e coloque-o em uma pasta de mapas reconhecida pelo Warcraft III. Em **Jogos personalizados → Criar jogo**, selecione **Legion TD Community Enhanced 1.1.5**. Todos no lobby devem usar a mesma versão.
 
-[Baixar 1.1.4][download] · [Notas da versão][release] · [Sobre a LTDCE][changes] · [Sugerir ideia][ideas] · [Reportar bug][bugs] · [Guia de votação mensal][community-pt] · [Nossa história][history]
+[Baixar 1.1.5][download] · [Notas da versão][release] · [Sobre a LTDCE][changes] · [Sugerir ideia][ideas] · [Reportar bug][bugs] · [Guia de votação mensal][community-pt] · [Nossa história][history]
 
 ## Español
 
@@ -72,9 +72,9 @@ A LTDCE é uma edição comunitária da Legion TD 11.4c-hf9 do Team OZE para War
 
 LTDCE es una edición comunitaria de Legion TD 11.4c-hf9 de Team OZE para Warcraft III. Corrige el Espejo de la Verdad del Caballero de la Muerte y se centra en mejorar el rendimiento. Elo está desactivado temporalmente mientras desarrollamos un sistema de clasificación más rápido.
 
-**Cómo jugar a la 1.1.4.** Descarga el archivo `.w3x` de la versión y colócalo en una carpeta de mapas que reconozca Warcraft III. En **Partidas personalizadas → Crear partida**, elige **Legion TD Community Enhanced 1.1.4**. Todos los participantes deben usar la misma versión.
+**Cómo jugar a la 1.1.5.** Descarga el archivo `.w3x` de la versión y colócalo en una carpeta de mapas que reconozca Warcraft III. En **Partidas personalizadas → Crear partida**, elige **Legion TD Community Enhanced 1.1.5**. Todos los participantes deben usar la misma versión.
 
-[Descargar 1.1.4][download] · [Notas de la versión][release] · [Acerca de LTDCE][changes] · [Proponer una idea][ideas] · [Informar de un fallo][bugs] · [Guía de votación mensual][community-es] · [Historia del proyecto en portugués][history]
+[Descargar 1.1.5][download] · [Notas de la versión][release] · [Acerca de LTDCE][changes] · [Proponer una idea][ideas] · [Informar de un fallo][bugs] · [Guía de votación mensual][community-es] · [Historia del proyecto en portugués][history]
 
 ## Français
 
@@ -86,16 +86,16 @@ LTDCE es una edición comunitaria de Legion TD 11.4c-hf9 de Team OZE para Warcra
 
 LTDCE est une édition communautaire de Legion TD 11.4c-hf9 de Team OZE pour Warcraft III. Elle corrige le Miroir de vérité du chevalier de la mort et vise à améliorer les performances. L’Elo est désactivé temporairement pendant le développement d’un système de classement plus rapide.
 
-**Jouer à la 1.1.4.** Téléchargez le fichier `.w3x` de la version et placez-le dans un dossier de cartes reconnu par Warcraft III. Dans **Parties personnalisées → Créer une partie**, sélectionnez **Legion TD Community Enhanced 1.1.4**. Tous les joueurs du salon doivent utiliser la même version.
+**Jouer à la 1.1.5.** Téléchargez le fichier `.w3x` de la version et placez-le dans un dossier de cartes reconnu par Warcraft III. Dans **Parties personnalisées → Créer une partie**, sélectionnez **Legion TD Community Enhanced 1.1.5**. Tous les joueurs du salon doivent utiliser la même version.
 
-[Télécharger la 1.1.4][download] · [Notes de version][release] · [Présentation de LTDCE][changes] · [Proposer une idée][ideas] · [Signaler un bug][bugs] · [Guide du vote mensuel][community-fr] · [Histoire du projet en portugais][history]
+[Télécharger la 1.1.5][download] · [Notes de version][release] · [Présentation de LTDCE][changes] · [Proposer une idée][ideas] · [Signaler un bug][bugs] · [Guide du vote mensuel][community-fr] · [Histoire du projet en portugais][history]
 
 ---
 
 Original Legion TD map by Lisk. Base map by Team OZE. LTDCE distributes compiled Warcraft III maps and release notes.
 
-[download]: https://github.com/ltdce/LTDCE/releases/download/v1.1.4/Legion_TD_Community_Enhanced_1.1.4.w3x
-[release]: https://github.com/ltdce/LTDCE/releases/tag/v1.1.4
+[download]: https://github.com/ltdce/LTDCE/releases/download/v1.1.5/Legion_TD_Community_Enhanced_1.1.5.w3x
+[release]: https://github.com/ltdce/LTDCE/releases/tag/v1.1.5
 [changes]: DIFFERENCES.md
 [ideas]: https://github.com/ltdce/LTDCE/issues/new?template=sugestao.yml
 [bugs]: https://github.com/ltdce/LTDCE/issues/new?labels=bug
