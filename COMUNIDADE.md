@@ -31,13 +31,13 @@ O ciclo está proposto. A primeira enquete será anunciada depois que a categori
 
 **Preparação no repositório público.** Ativar **Discussions** nas configurações, manter uma categoria de enquetes e publicar nela a primeira votação. Na abertura, adicionar o link direto para a enquete aqui e na página pública do projeto. [Categorias e enquetes do GitHub Discussions](https://docs.github.com/en/discussions/managing-discussions-for-your-community/managing-categories-for-discussions)
 
-**Texto para anunciar em um lobby ou comunidade.** “Jogava Legion TD na 11.4c-hf9? A LTDCE é nossa edição comunitária para Warcraft III, sem ELO, com Pick opcional e ideias abertas para o próximo patch. Baixe a 1.1.1, jogue uma partida com a gente e conte o que você mudaria.” [Download e participação](https://github.com/ltdce/LTDCE)
+**Texto para anunciar em um lobby ou comunidade.** “Jogava Legion TD na 11.4c-hf9? A LTDCE é nossa edição comunitária para Warcraft III, com o Espelho da Verdade corrigido e o Elo temporariamente desativado. Baixe a versão mais recente, jogue uma partida com a gente e conte o que você mudaria.” [Download e participação](https://github.com/ltdce/LTDCE)
 
 ## Página do projeto e divulgação
 
-A [página no GitHub Pages](https://ltdce.github.io/) tem **Baixar mapa** como ação principal. Logo abaixo entram três passos para jogar, as mudanças da versão, a história do LTDCE e os links para sugerir e apoiar ideias. Na primeira rodada, a página também poderá apontar para a enquete no GitHub. [Como configurar a publicação do GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+A [página no GitHub Pages](https://ltdce.github.io/LTDCE/) tem **Baixar mapa** como ação principal. Logo abaixo entram três passos para jogar, o resumo da versão, a história do LTDCE e os links para sugerir e apoiar ideias. Na primeira rodada, a página também poderá apontar para a enquete no GitHub. [Como configurar a publicação do GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 
-Divulgue a release com um clipe curto que mostre uma diferença em jogo, como travar uma unidade com Pick e fazer reroll. Na abertura da votação, compartilhe um segundo post com as opções e o prazo. Nos canais de Warcraft III e Legion TD que aceitam divulgação, use um link para a página. Ao lançar uma ideia vinda da votação, destaque o resultado e a mudança no changelog.
+Divulgue a release com um clipe curto que mostre o conserto do Espelho da Verdade em jogo. Na abertura da votação, compartilhe um segundo post com as opções e o prazo. Nos canais de Warcraft III e Legion TD que aceitam divulgação, use um link para a página. Ao lançar uma ideia vinda da votação, destaque o resultado e a mudança no changelog.
 
 ## Modelo para a enquete
 
