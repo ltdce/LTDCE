@@ -7,6 +7,10 @@
 
 ---
 
+## Changes in LTDCE 1.1.4
+
+The Death Knight’s Mirror of Truth reveals the targeted area to the casting team for 8 seconds, once per match. [Notes for 1.1.4](releases/1.1.4/CHANGELOG.md)
+
 ## Changes in LTDCE 1.1.3
 
 The Death Knight’s Mirror of Truth reveals the targeted area to the casting team for 20 seconds, once per match. [Notes for 1.1.3](releases/1.1.3/CHANGELOG.md)
