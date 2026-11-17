@@ -7,6 +7,10 @@
 
 ---
 
+## Changes in LTDCE 1.1.3
+
+The Death Knight’s Mirror of Truth reveals the targeted area to the casting team for 20 seconds, once per match. [Notes for 1.1.3](releases/1.1.3/CHANGELOG.md)
+
 ## Changes in LTDCE 1.1.2
 
 The Guardian root recharges in 12 seconds, Wolverine’s Madness grants damage immunity for 1.5 seconds and the Death Knight’s Mirror of Truth reveals the target area again. [Notes for 1.1.2](releases/1.1.2/CHANGELOG.md)
