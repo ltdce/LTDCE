@@ -18,6 +18,8 @@ LTDCE is a community edition of Team OZE’s Legion TD 11.4c-hf9 for Warcraft II
 
 **Play 1.1.5.** Download the `.w3x` from the release and put it in a map folder recognized by Warcraft III. Go to **Custom Games → Create Game** and select **Legion TD Community Enhanced 1.1.5**. Share the same release with anyone joining your lobby.
 
+[Try Share Allowed][share]. In this 1.1.5 test build, the host can enable gold and lumber transfers between allies in the mode picker. Share Allowed starts off and can be used independently of Pick.
+
 [Download 1.1.5][download] · [Changelog][release] · [LTDCE overview][changes] · [Suggest an idea][ideas] · [Report a bug][bugs] · [Monthly voting guide][community-en] · [Project history (Portuguese)][history]
 
 ## Русский
@@ -31,6 +33,8 @@ LTDCE is a community edition of Team OZE’s Legion TD 11.4c-hf9 for Warcraft II
 LTDCE — версия Legion TD 11.4c-hf9 от Team OZE для Warcraft III, которую развивает сообщество. В ней исправлено «Зеркало истины» Рыцаря смерти, и ведётся работа над производительностью. Elo временно отключён, пока мы разрабатываем более быструю систему рейтинга.
 
 **Как сыграть в 1.1.5.** Скачайте файл `.w3x` и поместите его в папку карт Warcraft III. В меню пользовательских игр создайте игру и выберите **Legion TD Community Enhanced 1.1.5**. У всех участников лобби должна быть одна и та же версия.
+
+[Попробуйте Share Allowed][share]. В этой тестовой версии на базе 1.1.5 хозяин игры может разрешить союзникам передавать друг другу золото и древесину. Опция по умолчанию выключена и выбирается отдельно от Pick.
 
 [Скачать 1.1.5][download] · [История изменений][release] · [Обзор LTDCE][changes] · [Предложить идею][ideas] · [Сообщить об ошибке][bugs] · [Порядок ежемесячного голосования][community-ru] · [История проекта (на португальском)][history]
 
@@ -46,6 +50,8 @@ LTDCE는 팀 OZE의 Legion TD 11.4c-hf9를 기반으로 한 워크래프트 III 
 
 **1.1.5 플레이 방법.** 릴리스에서 `.w3x` 파일을 내려받아 워크래프트 III가 인식하는 지도 폴더에 넣으세요. **사용자 지정 게임 → 게임 만들기**에서 **Legion TD Community Enhanced 1.1.5**을 선택하세요. 방에 참가하는 사람은 같은 버전을 사용해야 합니다.
 
+[Share Allowed 테스트 버전][share]. 1.1.5 기반 테스트 맵에서 방장은 모드 선택 화면에서 아군끼리 금과 나무를 주고받도록 설정할 수 있습니다. 기본값은 꺼짐이며 Pick과 별도로 선택합니다.
+
 [1.1.5 다운로드][download] · [릴리스 노트][release] · [LTDCE 소개][changes] · [제안하기][ideas] · [버그 신고][bugs] · [월간 투표 안내][community-ko] · [프로젝트 이야기·포르투갈어][history]
 
 ## Português
@@ -59,6 +65,8 @@ LTDCE는 팀 OZE의 Legion TD 11.4c-hf9를 기반으로 한 워크래프트 III 
 A LTDCE é uma edição comunitária da Legion TD 11.4c-hf9 do Team OZE para Warcraft III. Ela corrige o Espelho da Verdade do Death Knight e tem foco em melhorar o desempenho. O Elo está temporariamente desativado enquanto desenvolvemos um sistema de ranking mais rápido para substituí-lo.
 
 **Como jogar a 1.1.5.** Baixe o `.w3x` da release e coloque-o em uma pasta de mapas reconhecida pelo Warcraft III. Em **Jogos personalizados → Criar jogo**, selecione **Legion TD Community Enhanced 1.1.5**. Todos no lobby devem usar a mesma versão.
+
+[Testar o Share Allowed][share]. Nesta versão de teste baseada na 1.1.5, o anfitrião pode liberar o envio de ouro e madeira entre aliados no seletor de modos. A opção começa desligada e pode ser usada independentemente do Pick.
 
 [Baixar 1.1.5][download] · [Notas da versão][release] · [Sobre a LTDCE][changes] · [Sugerir ideia][ideas] · [Reportar bug][bugs] · [Guia de votação mensal][community-pt] · [Nossa história][history]
 
@@ -74,6 +82,8 @@ LTDCE es una edición comunitaria de Legion TD 11.4c-hf9 de Team OZE para Warcra
 
 **Cómo jugar a la 1.1.5.** Descarga el archivo `.w3x` de la versión y colócalo en una carpeta de mapas que reconozca Warcraft III. En **Partidas personalizadas → Crear partida**, elige **Legion TD Community Enhanced 1.1.5**. Todos los participantes deben usar la misma versión.
 
+[Prueba Share Allowed][share]. En esta versión de prueba basada en la 1.1.5, el anfitrión puede habilitar el envío de oro y madera entre aliados en el selector de modos. La opción empieza desactivada y se elige independientemente de Pick.
+
 [Descargar 1.1.5][download] · [Notas de la versión][release] · [Acerca de LTDCE][changes] · [Proponer una idea][ideas] · [Informar de un fallo][bugs] · [Guía de votación mensual][community-es] · [Historia del proyecto en portugués][history]
 
 ## Français
@@ -88,6 +98,8 @@ LTDCE est une édition communautaire de Legion TD 11.4c-hf9 de Team OZE pour War
 
 **Jouer à la 1.1.5.** Téléchargez le fichier `.w3x` de la version et placez-le dans un dossier de cartes reconnu par Warcraft III. Dans **Parties personnalisées → Créer une partie**, sélectionnez **Legion TD Community Enhanced 1.1.5**. Tous les joueurs du salon doivent utiliser la même version.
 
+[Essayer Share Allowed][share]. Dans cette version de test basée sur la 1.1.5, l’hôte peut autoriser les transferts d’or et de bois entre alliés dans le sélecteur de modes. L’option est désactivée par défaut et se choisit indépendamment de Pick.
+
 [Télécharger la 1.1.5][download] · [Notes de version][release] · [Présentation de LTDCE][changes] · [Proposer une idée][ideas] · [Signaler un bug][bugs] · [Guide du vote mensuel][community-fr] · [Histoire du projet en portugais][history]
 
 ---
@@ -95,6 +107,7 @@ LTDCE est une édition communautaire de Legion TD 11.4c-hf9 de Team OZE pour War
 Original Legion TD map by Lisk. Base map by Team OZE. LTDCE distributes compiled Warcraft III maps and release notes.
 
 [download]: https://github.com/ltdce/LTDCE/releases/download/v1.1.5/Legion_TD_Community_Enhanced_1.1.5.w3x
+[share]: https://github.com/ltdce/LTDCE/releases/tag/v1.1.5-share-test
 [release]: https://github.com/ltdce/LTDCE/releases/tag/v1.1.5
 [changes]: DIFFERENCES.md
 [ideas]: https://github.com/ltdce/LTDCE/issues/new?template=sugestao.yml
